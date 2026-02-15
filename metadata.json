@@ -1,0 +1,8 @@
+{
+  "name": "Smart School ERP",
+  "description": "A comprehensive and intelligent School Management System with automated attendance, fee tracking, and AI-powered performance analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
